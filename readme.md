@@ -32,4 +32,4 @@ Fácil, cogeréis cada trozo de código que se dividirá entre `app.js`, `middle
 ## CONSEJOS
 - Comienza por lo sencillo. Como inicializar el servidor, requerir express, ...
 - Muxhos exports, nos da la idea de lo que puede haber dentro de cada archivo
-- No te olvides de hacer `npm instal` para que las dependencias se instalen en nuestro proyecto
+- No te olvides de hacer `npm install` para que las dependencias se instalen en nuestro proyecto
