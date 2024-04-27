@@ -1,7 +1,7 @@
 // Snippets de código para poder componer el programa
 
 //Usado?: 
-  const middlewares = require('./middlewares');
+const middlewares = require('./middlewares');
 //--- Explicación: 
 
 // -------------------------------------------------------------------------------------
@@ -122,8 +122,9 @@ const setup = (app) => {
     if (req.session.palabraSecreta) {
       return res.redirect('/profile');
     }
-  //Aquí va código dentro
-})}
+    //Aquí va código dentro
+  })
+}
 //--- Explicación: 
 
 
